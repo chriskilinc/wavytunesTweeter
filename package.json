@@ -15,7 +15,7 @@
   ],
   "author": "chriskilinc",
   "license": "ISC",
-  "dependencies": { 
+  "dependencies": {
     "twit": "^2.2.10"
   }
 }
