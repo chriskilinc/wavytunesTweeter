@@ -14,5 +14,8 @@
     "spotify-api"
   ],
   "author": "chriskilinc",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": { 
+    "twit": "^2.2.10"
+  }
 }
